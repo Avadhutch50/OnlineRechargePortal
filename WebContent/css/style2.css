@@ -1,0 +1,167 @@
+@charset "ISO-8859-1";
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("../img/background.jpg");
+	background-size: 50%;
+}
+.container {
+	margin: auto;
+	margin-top: 64px;
+	width: 1160px;
+	height: 586px;
+	/* background-color: #FFFFFF; */
+	background-color: rgba(255,255,255,0.8);
+}
+.navigation {
+	width: 200px;
+	height:585px;
+	float: left;
+	display: inline;
+	border-right: 1px solid grey;
+}
+.list {
+	margin: 0;
+	padding: 0;
+}
+.list li {
+	list-style: none;
+	width: 200px;
+	padding: 32px 0px 32px 0px;
+	text-align: center;
+	font-size: 20px;
+	font-family: Arial;
+	color: white;
+	cursor: pointer;
+	border-bottom: 1px solid grey;
+	background-color: rgb(0, 82, 204);
+}
+#selected {
+	background-color:rgb(0, 61, 153);
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	padding: 60px 0px 60px 0px;
+}
+.list li:hover {
+	background-color: rgb(0, 92, 230);
+}
+.notification-bar {
+	height: 50px;
+	width: auto;
+	float: left;
+	text-align: center;
+	margin-left: 20px;
+	padding: 10px;
+}
+.nav {
+	height: 50px;
+	width: auto;
+	float: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-left: 1px solid grey;
+	border-bottom: 1px solid grey;
+}
+.main {
+	width: 82.64%;
+	float: left;
+	height: 535px;
+}
+.main-div {
+	margin: auto;
+	margin-top: 50px;
+	width: 600px;
+	height: 400px;
+	border: 1px dashed grey;
+}
+.main-div form {
+	margin: auto;
+	margin-top: 40px;
+	text-align: center;
+}
+#wideform ,#wideform input{
+	margin-top: 0px;
+}
+.main-div form table {
+	margin: auto;
+	font-size: 25px;
+	font-family: Arial;
+}
+.main-div td {
+	padding: 25px;
+	text-align: right;
+}
+.main-div td input {
+	width: 250px;
+	height: 25px;
+	margin: 0;
+	font-size: 20px;
+}
+.main-div td select {
+	width: 260px;
+	height: 30px;
+	font-size: 20px;
+}
+.main-div input {
+	width: 200px;
+	height: 50px;
+	margin-top: 20px;
+	font-size: 22px;
+}
+.my-account {
+	margin: auto;
+	margin-top: 30px;
+	width: 900px;
+	height: 450px;
+	border: 1px dashed grey;
+}
+.my-account form {
+	margin: 0px;
+	float: left;
+	width: 490px;
+	border-right: 1px dashed grey;
+	border-bottom: 1px dashed grey;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.my-account form table {
+	margin: 0px;
+	padding: 0px;
+	font-size: 25px;
+	font-family: Arial;
+}
+.my-account td {
+	padding-bottom: 25px;
+	padding-left: 20px;
+	text-align: right;
+}
+.my-account td input {
+	width: 250px;
+	height: 25px;
+	font-size: 15px;
+}
+.my-account input {
+	margin: 0px;
+	width: 160px;
+	height: 30px;
+	font-size: 22px;
+}
+.password form {
+	width: 408px;
+	border-right: none;
+}
+.password td {
+	font-size: 20px;
+}
+.password td input {
+	width: 200px;
+}
+.password form table {
+	margin: auto;
+	margin-left: 0px;
+	width: 400px;
+}
+.password input {
+	width: 200px;
+}

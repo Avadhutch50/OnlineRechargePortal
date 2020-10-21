@@ -1,0 +1,66 @@
+@charset "ISO-8859-1";
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("../img/background.jpg");
+	background-size: 50%;
+}
+.Container {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 64px;
+	padding: 50px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	width: 500px;
+	height: auto;
+	border: 1px solid grey;
+	border-radius: 10px;
+	background-color: rgba(255,255,255,0.8);
+}
+.Container h1 {
+	margin-top:0;
+	font-family: Lucida Console;
+}
+.Form {
+	margin: auto;
+	width: 400px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 5px;
+	color: darkgreen;
+	background-color: lightgreen;
+}
+.Form h2 {
+	margin-top: 0;
+}
+.field {
+	margin-left: 50px;
+	margin-right: 50px;
+	width: 300px;
+	height: 30px;
+	font-size: 18px;
+	border: black 1px solid;
+	border-radius: 15px;
+	text-align: center;
+}
+.note {
+	margin-left: 50px;
+}
+.button {
+	margin-left: 50px;
+	margin-right: 50px;
+	width: 310px;
+	height: 37px;
+	background-color: rgb(255, 77, 77);
+	border: black 1px solid;
+	border-radius: 15px;
+	text-align: center;
+	font-size: 18px;
+	color: white;
+}
+.button:hover {
+	background-color: rgb(240, 0, 0);
+}
