@@ -1,12 +1,12 @@
-##Online Recharge Portal
+## Online Recharge Portal
 
-##Features :
+## Features :
 
-##Dependencies/Requirements :
+## Dependencies/Requirements :
 
-####Recommended JDK/JRE version : java 11.0.9 LTS
+#### Recommended JDK/JRE version : java 11.0.9 LTS
 
-##Technology Stack :
+## Technology Stack :
 
-##Screenshots :
+## Screenshots :
 
