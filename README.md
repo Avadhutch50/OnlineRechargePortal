@@ -25,7 +25,8 @@
 <br>• HTML CSS Javascript
 <br>• SQL RDBMS**
 ## Screenshots :<br>
- 1) Login Page:
+
+1) Login Page:
 <img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-1.jpeg" width="800px" height="500px" alt="Login Page"/>
 2) Registration Page:
 <img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-2.jpeg" width="800px" height="500px" alt="Registration Page"/>
