@@ -16,7 +16,7 @@
 <br>• **Web Server** 		: Tomcat Server 9.0.x
 <br>• **Database Server**	: MS SQL Server 2017
 <br>• **Libraries**		: 1) jstl-1.2 (JSP Taglib)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) mssql-jdbc-8.2.x-JRE11
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) mssql-jdbc-8.2.x-JRE11<br>
 **Recommended JDK/JRE version** : java 11.0.9 LTS
 
 ## Technology Stack :
