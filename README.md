@@ -24,19 +24,18 @@
 <br>• Servlet and JSP
 <br>• HTML CSS Javascript
 <br>• SQL RDBMS**
-## Screenshots :<br>
-
-1) Login Page:
+## Screenshots :
+1. Login Page:
 <img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-1.jpeg" width="800px" height="500px" alt="Login Page"/>
-2) Registration Page:
+2. Registration Page:
 <img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-2.jpeg" width="800px" height="500px" alt="Registration Page"/>
-3) My Account Page:
+3. My Account Page:
 <img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-3.jpeg" width="800px" height="500px" alt="Recharge Page"/>
-4) Recharge Page:
+4. Recharge Page:
 <img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-4.jpeg" width="800px" height="500px" alt="My Account Page"/>
-5) Add Operator Page:
+5. Add Operator Page:
 <img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-5.jpeg" width="800px" height="500px" alt="Add Operator Page"/>
-6) Add Plan Page:
+6. Add Plan Page:
 <img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-6.jpeg" width="800px" height="500px" alt="Add Plan Page"/>
-7) Add Mobile Number Page:
-<img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-7.jpeg" width="800px" height="500px" alt="Add Mobile Number Page"/>
+7. Add Mobile Number Page:
+<img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-7.jpeg" width="800px" height="500px" alt="Add Mobile Number Page"/><hr>
