@@ -13,7 +13,7 @@
 
 ## Dependencies/Requirements :
 • JDK/JRE version	: 11+
-• Web Server 		: Tomcat Server 9.0.x
+<br>• Web Server 		: Tomcat Server 9.0.x
 • Libraries		: 1) jstl-1.2 (JSP Taglib)
 			  2) mssql-jdbc-8.2.x-JRE11
 • Database Server	: MS SQL Server 2017
