@@ -15,7 +15,7 @@
 • **JDK/JRE version**	: 11+
 <br>• **Web Server** 		: Tomcat Server 9.0.x
 <br>• **Database Server**	: MS SQL Server 2017
-<br>• **Libraries**		: 1) jstl-1.2 (JSP Taglib)
+<br>• **Libraries**		:  1) jstl-1.2 (JSP Taglib)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) mssql-jdbc-8.2.x-JRE11<br>
 **Recommended JDK/JRE version** : java 11.0.9 LTS
 
@@ -25,7 +25,7 @@
 <br>• HTML CSS Javascript
 <br>• SQL RDBMS**
 ## Screenshots :<br>
-1) Login Page:
+ 1) Login Page:
 <img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-1.jpeg" width="800px" height="500px" alt="Login Page"/>
 2) Registration Page:
 <img src="https://github.com/Avadhutch50/OnlineRechargePortal/blob/master/screenshots/ScreenShot-2.jpeg" width="800px" height="500px" alt="Registration Page"/>
