@@ -8,7 +8,7 @@
 5. Able to recharge on mobile number that is associated with operator.
 6. Reacharge can be made with existing plan or custome price entered by user.
 7. User can update its account details when logged into system.
-8. User can change logging credentials (password) when logged into system.
+8. User can change login credentials (password) when logged into system.
 9. User can delete there account permanently when logged into system. 
 
 ## Dependencies / Requirements :
